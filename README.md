@@ -2,7 +2,7 @@
 this is Git and GitHub demo class.
 
 # Teacher
- Anas Ahmad
+ shrada khapra
 
  # student
  computer science student
